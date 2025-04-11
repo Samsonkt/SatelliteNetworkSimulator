@@ -2,7 +2,7 @@
 
 A **C++ application** simulating a constellation of low-Earth orbit satellites using an **AVL balanced binary search tree (BST)**. Built as part of **CMSC 341** at **UMBC (Fall 2023)**, this simulator is inspired by real-world satellite internet networks like **Starlink**, offering efficient and scalable satellite management.
 
-> 📍 [Replace this with your actual GitHub repo URL once available.]
+> 📍 https://github.com/Samsonkt/SatelliteNetworkSimulator/tree/main
 
 ---
 
